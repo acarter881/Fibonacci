@@ -11,5 +11,5 @@ def fib(n):
         last, next = next, last + next
         yield next
 
-for i in fib(50):
+for i in fib(YOUR INTEGER HERE):
     print(i)
